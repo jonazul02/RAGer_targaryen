@@ -1,0 +1,8 @@
+for windows:
+set PYTHONPATH=D:\\Proyectos\\Docker\\Multimodal_RAG\\Github\\RARger_targaryen
+
+instructions:
+run next scripts to build the application:
+    1. python servicies\creating_database.py
+    2. python sevicies\chunking_pipeline.py
+    3. run the notebook Retrieval and enjoy!!!
