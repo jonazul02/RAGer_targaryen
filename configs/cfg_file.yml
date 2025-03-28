@@ -1,0 +1,12 @@
+paths:
+  pdf_processing:
+    pdf_source:  '.\assets\'
+    pdf_data: '.\assets\preprocessing\'
+  recepies_path:
+    recepies_source: '.\assets\'
+    csv_ingredients: '.\assets\recepies\Food Ingredients and Recipe Dataset with Image Name Mapping.csv'
+    images_folder: '.\assets\recepies\Food_Images\'
+    recepies_json: '.\assets\recepies.json'
+    recepies_chunked_json: '.\assets\recepies_chunked.json'
+    recepies_doc_ids: '.\assets\recepies_ids.txt'
+    recepies_embeddings: '.\assets\recepies_embeddings.npy'
